@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0cf10c20-cd96-440d-be36-f854ae96fbae" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T8sS7IuohdYN7BVmMxXFGC2kor" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../task" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\500\Desktop\lavanya\manasa form\New folder" />
+      <recent name="C:\Users\500\Desktop\lavanya\manasa form" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\500\Desktop\lavanya\manu form" />
+      <recent name="C:\Users\500\Desktop\lavanya\manasa form" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="manu.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/manasa form/New folder/manu.html">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.manu.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cf10c20-cd96-440d-be36-f854ae96fbae" name="Default" comment="" />
+      <created>1547125065021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547125065021</updated>
+      <workItem from="1547125067553" duration="1239000" />
+      <workItem from="1547304721416" duration="2782000" />
+      <workItem from="1547365155668" duration="7099000" />
+      <workItem from="1547378148782" duration="5923000" />
+      <workItem from="1548493474275" duration="5289000" />
+      <workItem from="1548504778510" duration="1858000" />
+      <workItem from="1548585749329" duration="6411000" />
+      <workItem from="1548595254187" duration="6812000" />
+      <workItem from="1548822436946" duration="115000" />
+      <workItem from="1548860888916" duration="754000" />
+      <workItem from="1552197729640" duration="142000" />
+      <workItem from="1561279898444" duration="306000" />
+      <workItem from="1567185679625" duration="295000" />
+      <workItem from="1567236704593" duration="804000" />
+      <workItem from="1567237653826" duration="4183000" />
+      <workItem from="1567320359808" duration="960000" />
+      <workItem from="1567482418583" duration="1543000" />
+      <workItem from="1567590790048" duration="53000" />
+      <workItem from="1568012228155" duration="479000" />
+      <workItem from="1568023067406" duration="525000" />
+      <workItem from="1572853063709" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

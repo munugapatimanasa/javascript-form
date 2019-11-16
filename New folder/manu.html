@@ -1,0 +1,74 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JS Form Validation</title>
+    <link rel="stylesheet" href="12_styles.css">
+</head>
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="stylesheet" href="../bootstrap/css/fontawesome-all.css">
+        <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="../bootstrap/css/mdb.css">
+        <link rel="stylesheet" href="styles.css">
+        <title>JQuery</title>
+
+<style>
+    .col-md-5{
+        margin: 30px auto!important;
+    }
+    #register {
+        margin: 30px auto !important;
+    }
+
+
+
+
+</style>
+
+    </head>
+
+    <body>
+    <nav class="navbar-expand-sm navbar-dark bg-dark text-white">Home page</nav>
+
+<br>
+<div class="container" id="formdiv">
+    <div class="row">
+        <div class="col-md-5">
+            <div class="card">
+                <div class="card-header bg-success text-center text-white">
+                    <h3>login here</h3>
+                </div>
+                <div class="card-body">
+                    <form onsubmit="return validate()" action="dashboard.html">
+                <div class="form-group">
+                    <input type="email"  id="email" placeholder="email-id" class="form-control">
+                    <div id="email_error"></div>
+                </div>
+                    <div class="form-group">
+                        <input type="password" id="password" placeholder="password" class="form-control">
+                        <div id="password_error"></div>
+                    </div>
+                        <button class="btn btn-primary btn-block">login</button>
+
+                    </form>
+                    <div id="register">
+
+                    <a href="register.html" >register</a>
+                    </div>
+                </div>
+            </div>
+
+            <br>
+    </div>
+</div>
+
+    </div>
+<script src="manasa.js"></script>
+</body>
+</html>
